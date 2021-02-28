@@ -1,0 +1,62 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #fcbf49;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: #284b63;
+    margin-top: 50px;
+}
+
+#figure-caption {
+    margin-bottom:100px;
+}
+
+input {
+    display: block;
+}
+
+img {
+    border: 10px solid #ff006e;
+    margin-top: 20px;
+}
+
+.image-center {
+    text-align: center;
+}
+
+.form {
+    color:#284b63;
+}
+
+button {
+    background-color: white;
+    color: black;
+    border: 8px solid #284b63; 
+    border-radius: 8px;
+    margin-top: 30px;
+}
+
+.contactform {
+    display: block;
+}
+
+.contact {
+    font-size: small;
+}
+        
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
